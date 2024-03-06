@@ -1,0 +1,10 @@
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cakkeculator.csproj.AssemblyReference.cache
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cakkeculator.csproj.GenerateResource.cache
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Cakkeculator.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\matth\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
